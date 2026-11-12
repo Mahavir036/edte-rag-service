@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+
+# Testing and type checking
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# VS Code
+.vscode/
+*.egg-info/
